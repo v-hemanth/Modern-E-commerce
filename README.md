@@ -15,6 +15,6 @@ Azure Application Insights.
 
 Deploying your appication through Virtual Machine provides you with complete control over its confifurations, scalabilty and availabilty factors which I made use of to produce a model with the best price configuration possible for a dev/test based website.
 
-The website can be viewed here:
+The website can be viewed here: http://modernecommerce.centralindia.cloudapp.azure.com
 
 The project demonstartion video link is: 
