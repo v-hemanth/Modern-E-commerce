@@ -13,7 +13,7 @@ He needs to approve the user accounts for their successful acutivation and he ca
 He can edit that is either add, delete or modify information regarding the categories of products present in the application, the number of products their cost and even their quantity details etc.\
 He can also change the layout and information of any particular field in the web application.\
 The admin can also add sales and coupons which can be used by the customer during special sale seasons.\
-The admin can perform all the above mentioned tasks using the admin dashboard once he logs in with the correct credentials.\
+The admin can perform all the above mentioned tasks using the admin dashboard once he logs in with the correct credentials.
 
 
 The website is quick, available and responsive with an elegant look. It also has feature extensions like payments linked with paypal etc which can be used based on the developers need.
