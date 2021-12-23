@@ -1,3 +1,8 @@
+# Project Demo Links
+The website can be viewed here: http://modernecommerce.centralindia.cloudapp.azure.com
+
+The project demonstartion video link is: https://drive.google.com/file/d/1hCUy93hFLmPTzaQgGudYVbPW7As6TQyo/view?usp=sharing
+
 # Modern-E-commerce
 This is a Modern E-commerce application built using AbanteCart and Microsoft Azure Services for my Future Ready Talent Internship.
 
@@ -31,8 +36,3 @@ Azure Public IP address and DNS\
 Azure Application Insights.
 
 Deploying your appication through Virtual Machine provides you with complete control over its configurations, scalabilty and availabilty factors which I made use of to produce a model with the best price configuration possible for a dev/test based website.
-
-# Project Demo Links
-The website can be viewed here: http://modernecommerce.centralindia.cloudapp.azure.com
-
-The project demonstartion video link is: https://drive.google.com/file/d/1hCUy93hFLmPTzaQgGudYVbPW7As6TQyo/view?usp=sharing
