@@ -1,6 +1,8 @@
 # Project Demo Links
 The website can be viewed here: http://modernecommerce.centralindia.cloudapp.azure.com
 
+(Note: I stopped the Virtual Machine to save my azure credits and hence the website will not work).
+
 The project demonstartion video link is: https://drive.google.com/file/d/1hCUy93hFLmPTzaQgGudYVbPW7As6TQyo/view?usp=sharing
 
 # Modern-E-commerce
